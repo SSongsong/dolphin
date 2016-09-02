@@ -8,8 +8,7 @@ public class HelloGit {
 		System.out.println("응");
 		
 		// 니나노
-		// 니니나나나나
-		//커밋
 	}
 
 }
+
