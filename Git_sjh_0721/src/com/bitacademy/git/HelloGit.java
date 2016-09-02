@@ -9,6 +9,7 @@ public class HelloGit {
 		
 		// 니나노
 		System.out.println("응 아니야");
+		System.out.println("그만하자 집가자");
 	}
 
 }
